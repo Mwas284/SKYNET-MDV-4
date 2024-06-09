@@ -39,13 +39,9 @@
 
  ## CONTACT DEVELOPER
 
-⏣REACh SKYNET-MDV-4 DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254794451471)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/skynet254) 
+⏣REACh SKYNET-MDV-4 DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254794451471) 
 
-## CONTRIBUTIONS
 
-Contributions to SKYNET-MDV-4 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
-
-  
 
 The WhatsApp Bot skynet 𝗠𝗗 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
