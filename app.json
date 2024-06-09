@@ -1,9 +1,9 @@
 {
-  "name":"𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗",
-  "description":"Deploy now your 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 bot, BELTAH-MD was developed by Beltah.",
+  "name":"SKYNET-MDV-4",
+  "description":"Deploy now your SKYNET-MDV-4 bot, skynet-MD was developed by Beltah.",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-  "repository":"https://github.com/Beltahmd/beltah-md",
+  "logo":"https://telegra.ph/file/8a60e46abcb1b4497e703.jpg",
+  "repository":"https://github.com/Mwas284/SKYNET-MDV-4",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Beltah KE"
+    "value": "mwas "
   },
     "NUMERO_OWNER":
   {
