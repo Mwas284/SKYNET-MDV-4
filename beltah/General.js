@@ -55,14 +55,14 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⛑️" }, async (dest, 
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "BELTAH TECH", numero: "254114141192" },
-      { nom: "BELTAH KE", numero: "254737681758" },
-      { nom: "GIFTED TECH", numero: "254762016957" }, 
-      { nom: "FRANCE KING", numero: "254742063632" }, 
+      { nom: "skynet tech", numero: "254106078230" },
+      { nom: "Skynet tech", numero: "254795363396" },
+      { nom: "darmwas tech", numero: "2547794451471" }, 
+      { nom: "skynet tech", numero: "254795363396" }, 
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋WELCOME TO BELTAH-MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "👋WELCOME TO SKYNET-MDV-4 HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n⏣ ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,9 +95,9 @@ else {
 
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
- 
-  repondre("THANK YOU FOR CHOOSING BELTAH-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@Beltahtech2024] \n\n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 © 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING BELTAH-MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+ h
+  repondre("THANK YOU FOR CHOOSING SKYNET-MDV-4, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[tI] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@Beltahtech2024] \n\n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 © 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖") 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSINg SKYNET-MDV-4,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :Fms})
 
 })
 
