@@ -20,7 +20,7 @@
 
 ## GET https://github.com/Mwas284/SKYNET-MDV-4
 
-<a href="https://github.com/Mwas284/SKYNET-MDV-4"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-black" alt="FORK skynet md REPO" width="200"></a>
+<a href="https://github.com/Mwas284/SKYNET-MDV-4"><img src="https://img.shields.io/badge/Fork%20skynetmd%20Repo-black" alt="FORK skynet md REPO" width="200"></a>
 
 ## GET YOUR SESSION ID: 
 
